@@ -1,7 +1,5 @@
 # IwantPS4
-I want PS4
+I want PS4 
 Ascending Order 
-input             output
-I                   I
-want               PS4
-PS4                want
+input I want PS4 output I PS4 want
+
